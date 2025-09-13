@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**hingjaewon/hingjaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 안녕하세요, 김재원입니다!
 
-Here are some ideas to get you started:
+🌱 배우고 성장하는 걸 좋아합니다  
+💡 작은 아이디어라도 직접 만들어보고 기록합니다  
+📚 꾸준히 배우고 글과 코드로 남기고 싶습니다  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ About Me
+- 😊 새로운 사람들과 이야기 나누는 걸 좋아해요  
+- 🖊️ 글 쓰고 정리하는 습관을 들이는 중이에요  
+- 🌍 작은 것부터 차근차근 공유하고 싶습니다  
+
+---
+
+🙏 방문해주셔서 감사합니다!
