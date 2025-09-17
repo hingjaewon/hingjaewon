@@ -35,8 +35,7 @@
 ---
 
 ## 📫 Contact
-- Email: your@email.com  
-- Blog / Notion: [링크](https://example.com)  
+  
 
 ---
 
